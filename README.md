@@ -56,30 +56,30 @@
 ## ☁️ 자사소개
 ![3](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/ec2fa780-a6c4-4211-bd4e-51dcff85e6be)
 
-# 추진배경
+## 추진배경
 ![5](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/2136850a-78f9-4642-bb7e-c28f06ec961e)
 ![6](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/8f4e8ba2-622b-4e58-b384-8af91a179673)
 
-# 현황
+## 현황
 ![8](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/7bcfb7fd-0f9f-4abc-8224-2f5f595ebe15)
 ![9](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/16833899-50fa-41b7-acde-75a45a765c28)
 
-# 목표
+## 목표
 ![11](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/4cd17314-ea02-4d93-a6ad-da8e958bb965)
 
-# 분석계획
+## 분석계획
 ![13](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/4f8cca5e-7c15-4a73-a900-be4b4d5ca5ac)
 ![14](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/c139cd2c-b5db-4974-8297-3f9c6cbd1459)
 
-# 분석결과
+## 분석결과
 ![16](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/9430537a-45e7-4e65-a544-b1ac37b3e017)
 ![17](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/1de7ce7d-e24d-41cd-a932-5301fe92633f)
 
-# 개선안
+## 개선안
 ![19](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/5f807448-93c4-46c1-8d34-f5516e3003c0)
 ![20](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/bc8bb128-3e95-4003-aeee-6745d43bfce1)
 
-# APPENDIX
+## APPENDIX
 ![22](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/0788e8f7-0b8d-4576-bdea-e5fcc9e11642)
 ![23](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/2787530c-da2a-4ebd-9a20-ef24dec0ed19)
 ![24](https://github.com/HRHRHRSSS/telemarketing_data_project/assets/138752144/5de29198-d19c-4216-aa81-59d16ddc9dce)
